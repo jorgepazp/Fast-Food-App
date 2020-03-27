@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Fast Food App</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="about_us_text">
+        Fabricamos las mejores hamburguesas y sándwiches con los ingredientes frescos de tu preferencia.
+        Disfruta la experiencia de una Fast Food Burger y conoce el verdadero placer de comer.
+    </string>
+    <string name="menu">Ver Menú</string>
+
+
+        <string name="title_1">
+            La Neoyorkina
+        </string>
+        <string name="description_1">
+            Directo desde la Gran Manzana a tu paladar, llega la Neoyorkina con la mejor carne de búfalo a la barbacoa.
+            500gr de hamburguesa casera y tocino rostisado, junto a la salsa Street NY.
+            ¿Qué esperas para probarla?
+        </string>
+        <string name="precio_1">
+        $4.200
+        </string>
+
+        <string name="title_2">
+           Arequipa
+        </string>
+        <string name="description_2">
+            Historiadores cuentan que el mayor misterio de la gastronomía peruana nació en Arequipa, y la pregunta es.. ¿Cómo saben tan geniales?
+            Prueba este delicioso sandwich con carne de res saltada al estilo Arequipeño y siéntete como un conquistador en las alturas!
+        </string>
+        <string name="precio_2">
+        $3.800
+        </string>
+
+        <string name="title_3">
+            Churrasco
+        </string>
+        <string name="description_3">
+            Es domingo. El día está nublado e ideal para descansar. Nos llamas y pides tu churrasco favorito. ¿Qué mejor manera de mejorar tu panorama?
+            Prueba nuestra receta auténtica del Churrasco Fast y deleitate de los sabores de siempre. ¡Pídela con o sin mayonesa casera!
+        </string>
+        <string name="precio_3">
+        $3.200
+        </string>
+
+        <string name="title_4">
+            Cangreburger
+        </string>
+        <string name="description_4">
+            No, no has leído mal. Directo desde fondo de bikini nos escabullimos en el crustáceo cascarudo y conseguimos la receta auténtica vegana de Don Cangrejo. ¡Pero no le digas a Plancton!
+            Prueba esta delicia con una hamburguesa vegetal 100% con su salsa marinera, no hay mejor que una Cangreburger!
+        </string>
+        <string name="precio_4">
+        $4.300
+        </string>
+
+        <string name="title_5">
+            Clásica
+        </string>
+        <string name="description_5">
+            La infalible, esa que sacía tu estómago casi por 24 horas. Con 400 gr de hamburguesa casera y salsas tradicionales de la casa te presentamos la Clásica.
+            ¿No sabes cuál es tu estilo? Pues este es tu punto de partida, elígela con carne de res o carne vegetal, aunque no notarás la diferencia!
+        </string>
+        <string name="precio_5">
+        $3.500
+        </string>
+
+        <string name="title_6">
+            Tostadas
+        </string>
+        <string name="description_6">
+            Empieza tu día de la mejor manera con este sandwich protéico, despierta tu paladar con los más sofisticados sabores frescos de casa. ¿No te gusta la comida caliente?
+            Prueba nuestros sándwiches fríos con las carnes y pastas más sabrosas del mercado. Sandwich ligero pero sabroso!
+        </string>
+        <string name="precio_6">
+        $2.800
+        </string>
+
+        <string name="title_7">
+            El Viajero
+        </string>
+        <string name="description_7">
+            ¿Vas de paso y necesitas comer algo rápido? ¡No se diga más! El Viajero es el acompañante perfecto para esos momentos que queremos comer algo rápido y por que nó, de paso.
+            ¿Subway? ¡No! Me llamo El Viajero!
+        </string>
+        <string name="precio_7">
+        $2.600
+        </string>
+
+    <string name="advice">
+        dsgd
+    </string>
+
+</resources>
